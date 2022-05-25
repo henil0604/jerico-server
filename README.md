@@ -21,3 +21,7 @@ npm run build
 ```
 npm run start
 ```
+
+## JericoJs-SDK
+
+This Server can be used as a client using [JericoJs-SDK](https://github.com/henil0604/jericojs)
